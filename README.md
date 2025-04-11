@@ -64,7 +64,7 @@ module exp3halfadder(a,b,sum,carry);
  endmodule
 ```
 Half Subtractor
-```
+```hdl
 module exp3halfsubtractor(a,b,difference,borrow);
  input a,b;
  output difference,borrow;
